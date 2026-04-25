@@ -5,7 +5,7 @@ I have tried to document as many thing as possible, the code may be a bit harder
 I hope this helps maintain this project for future students!
 
 ## ESP32-Web-Server-Controlled-Relay
-In this project i control a relay using an ESP32-S3 running a modified heavily modified version of [Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-websocket-server-arduino/) ESP32 websocket server code. 
+In this project i control a relay using an ESP32-S3 running a heavily modified version of [Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-websocket-server-arduino/) ESP32 websocket server code. 
 
 This project features:
 
@@ -29,5 +29,10 @@ This project features:
 > 
 > Json information between webserver and ESP32.
 
-
 Please fork this project if you plan on changing the code or adding to it.
+
+## File information
+
+The SolidWorks folder has both the pack and go SolidWorks file and a STEP file.
+
+The KiCad folder contains the entire kicad PCB project folder.
