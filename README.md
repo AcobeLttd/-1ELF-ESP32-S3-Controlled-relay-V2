@@ -36,3 +36,5 @@ Please fork this project if you plan on changing the code or adding to it.
 The SolidWorks folder has both the pack and go SolidWorks file and a STEP file.
 
 The KiCad folder contains the entire kicad PCB project folder.
+
+Documentation folder includes the entire documentation for this project. Word DOCX file and a PDF file.
