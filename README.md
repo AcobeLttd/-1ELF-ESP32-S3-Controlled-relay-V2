@@ -10,14 +10,23 @@ In this project i control a relay using an ESP32-S3 running a modified heavily m
 This project features:
 
 > 128x64 0.96" I<sup>2</sup>C OLED screen support.
+> 
 > Automatic relay control with PIR motion detector.
+> 
 > Automatic relay disable with user adjustable delay with a potentiometer.
+> 
 > Webserver control with all debug information easily accessible.
+> 
 > Local WiFi hosted from the ESP32 with no internet connection.
+> 
 > Custom PCB designed to to be milled on one sided copper clad laminate.
+> 
 > Multiple expansion I/O
+> 
 > Modular design.
+> 
 > Highly flexible.
+> 
 > Json information between webserver and ESP32.
 
 
