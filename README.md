@@ -25,7 +25,7 @@ This project features:
 > 
 > Modular design.
 > 
-> Highly flexible.
+> Highly flexible for future improvements.
 > 
 > Json information between webserver and ESP32.
 
